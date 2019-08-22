@@ -1,0 +1,7 @@
+run:
+Hasil operasi bitwise OR: 30
+Hasil operasi bitwise AND:0
+Hasil operasi bitwise XOR:30
+Hasil operasi bitwise shift left: -11
+Hasil operasi bitwise shift right: 80
+BUILD SUCCESSFUL (total time: 0 seconds)
